@@ -1,0 +1,104 @@
+{
+  "service": [
+    {
+      "id": 1,
+      "name": "Mental health care",
+      "price": "10100 Tk",
+      "img": "https://i.ibb.co/CKR2cM9/mental.jpg",
+      "details": "Disposable Sanitary Headset Covers Latex Free, All Sizes & Colors. Disposable Sanitary Headset Covers Latex Free, All Sizes & Colors. Sign Up For Email List. Multiple Payment Options"
+    },
+    {
+      "id": 2,
+      "name": "Dental care",
+      "price": "9000 Tk",
+      "img": "https://i.ibb.co/fSzhJkh/dental.jpg",
+      "details": "The GE LightSpeed VCT is a full-body CT scanner. VCT stands for Volume Computed Tomography. GE has designed the system to produce advanced cardiac and neuro imaging using SnapShot Pulse™."
+    },
+    {
+      "id": 3,
+      "name": "Child care",
+      "price": "15000 Tk",
+      "img": "https://i.ibb.co/ZcLZ8CJ/child.jpg",
+      "details": "XP series is a 2100nm holmium laser surgical system design for urologists. Extremely portable in size with the highest output power of 40 watts worldwide, has become the gold ."
+    },
+    {
+      "id": 4,
+      "name": "Nutritional support.",
+      "price": "15500 Tk",
+      "img": "https://i.ibb.co/Tkj6jkQ/nutration.jpg",
+      "details": "The DRC1210 and DRC1220GL are 12 channel relay controllers, with a maximum load per channel of 10A and 20A respectively. They are used for switching both lighting and non-lighting loads. Both controllers have an optional accessory card for control of electronic dimmable ballasts. "
+    },
+    {
+      "id": 5,
+      "name": "Pharmaceutical care.",
+      "price": "10100 Tk",
+      "img": "https://i.ibb.co/VtS1f8k/pharmecitical.jpg",
+      "details": "Histopathology is the diagnosis and study of diseases of the tissues, and involves examining tissues and/or cells under a microscope. Histopathologists are responsible for making tissue diagnoses and helping clinicians manage a patients care."
+    },
+    {
+      "id": 6,
+      "name": "Substance abuse treatment.",
+      "price": "8500 Tk",
+      "img": "https://i.ibb.co/ZLQMQhW/abuse.jpg",
+      "details": "Cytology is the exam of a single cell type, as often found in fluid specimens. Its mainly used to diagnose or screen for cancer. Its also used to screen for fetal abnormalities, for pap smears, to diagnose infectious organisms, and in other screening and diagnostic areas."
+    }
+  ],
+  "medicine": [
+    {
+      "id": 1,
+      "name": "Acetaminophen.",
+      "price": "10100 Tk",
+      "img": "https://i.ibb.co/F486TTj/6.jpg",
+      "details": "Disposable Sanitary Headset Covers Latex Free, All Sizes & Colors. Disposable Sanitary Headset Covers Latex Free, All Sizes & Colors. Sign Up For Email List. Multiple Payment Options"
+    },
+    {
+      "id": 2,
+      "name": "Adderall.",
+      "price": "9000 Tk",
+      "img": "https://i.ibb.co/hcKdyXm/Acetaminophen-1.jpg",
+      "details": "The GE LightSpeed VCT is a full-body CT scanner. VCT stands for Volume Computed Tomography. GE has designed the system to produce advanced cardiac and neuro imaging using SnapShot Pulse™."
+    },
+    {
+      "id": 3,
+      "name": "Amitriptyline.",
+      "price": "15000 Tk",
+      "img": "https://i.ibb.co/gmL24Q0/Acetaminophen-2.jpg",
+      "details": "XP series is a 2100nm holmium laser surgical system design for urologists. Extremely portable in size with the highest output power of 40 watts worldwide, has become the gold standard of urology lithotripsy."
+    },
+    {
+      "id": 4,
+      "name": "Amlodipine.",
+      "price": "15500 Tk",
+      "img": "https://i.ibb.co/g9jSX8w/Acetaminophen-3.jpg",
+      "details": "The DRC1210 and DRC1220GL are 12 channel relay controllers, with a maximum load per channel of 10A and 20A respectively. They are used for switching both lighting and non-lighting loads. Both controllers have an optional accessory card for control of electronic dimmable ballasts. "
+    },
+    {
+      "id": 5,
+      "name": "Amoxicillin.",
+      "price": "10100 Tk",
+      "img": "https://i.ibb.co/NLG1qZ8/Acetaminophen-4.jpg",
+      "details": "Histopathology is the diagnosis and study of diseases of the tissues, and involves examining tissues and/or cells under a microscope. Histopathologists are responsible for making tissue diagnoses and helping clinicians manage a patients care."
+    },
+    {
+      "id": 6,
+      "name": "Ativan.",
+      "price": "8500 Tk",
+      "img": "https://i.ibb.co/7S9tw5Q/Acetaminophen-5.jpg",
+      "details": "Cytology is the exam of a single cell type, as often found in fluid specimens. Its mainly used to diagnose or screen for cancer. Its also used to screen for fetal abnormalities, for pap smears, to diagnose infectious organisms, and in other screening and diagnostic areas."
+    }
+  ],
+  "owner": [
+    {
+      "id": 1,
+      "name": "Shahed Ahmed",
+      "img": "https://i.ibb.co/yQzhybM/shahed.jpg",
+      "details": "Disposable Sanitary Headset Covers Latex Free, All Sizes & Colors. Disposable Sanitary Headset Covers Latex Free, All Sizes & Colors. Sign Up For Email List. Multiple Payment Options"
+    },
+    {
+      "id": 2,
+      "name": "Afjol Hossain",
+      "img": "https://i.ibb.co/LPr5rqS/afjol.jpg",
+      "details": "The GE LightSpeed VCT is a full-body CT scanner. VCT stands for Volume Computed Tomography. GE has designed the system to produce advanced cardiac and neuro imaging using SnapShot Pulse™."
+    }
+  ]
+}
